@@ -12,9 +12,6 @@
     "url": "https://github.com/fullstackreact/google-maps-react.git"
   },
   "main": "dist/index.js",
-  "files": [
-    "index.d.ts"
-  ],
   "types": "index.d.ts",
   "sideEffects": false,
   "scripts": {
